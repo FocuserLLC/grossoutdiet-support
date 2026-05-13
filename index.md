@@ -38,7 +38,7 @@ Open the app → **Settings → Delete All Data**. That wipes your logs, streaks
 
 ## Contact
 
-- Email: [info@focuserllc.com](mailto:info@focuserllc.com)
+- Email: [Contact](mailto:info@focuserllc.com)
 - Privacy Policy: [privacy.html](privacy.html)
 - Terms of Use: [terms.html](terms.html)
 
