@@ -19,6 +19,8 @@ This Privacy Policy describes how **Gross Out Diet** ("we", "us", "the app") han
 
 We do **not** collect your name, email, contacts, location, or health data.
 
+We use RevenueCat to manage subscriptions and in-app purchases. RevenueCat receives a randomly generated user ID, device identifiers, purchase history, and subscription events to provide and improve subscription functionality. RevenueCat does not sell personal data. See RevenueCat's privacy policy: https://www.revenuecat.com/privacy/
+
 ## 2. How we use information
 
 - To provide core app features (logging, streaks, coaching).
