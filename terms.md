@@ -1,6 +1,6 @@
 # Terms of Use
 
-Last updated: [May 13, 2026]_
+Last updated: [May 13, 2026]
 
 By downloading or using **Gross Out Diet** (the "app"), you agree to these Terms. If you don't agree, don't use the app.
 
