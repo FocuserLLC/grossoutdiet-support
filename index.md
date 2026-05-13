@@ -1,8 +1,3 @@
----
-layout: default
-title: Gross Out Diet — Support
----
-
 # Gross Out Diet — Support
 
 Gross Out Diet helps you break cravings by pairing the food you're about to eat with something genuinely disgusting. Earn Resist Points, build streaks, and talk to the G.O. Coach when willpower runs low.
