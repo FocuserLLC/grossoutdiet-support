@@ -4,7 +4,7 @@ Gross Out Diet helps you break cravings by pairing the food you're about to eat 
 
 If you need help, the fastest way to reach us is email:
 
-**[info@focuserllc.com](mailto:info@focuserllc.com)**
+**[Contact](mailto:info@focuserllc.com)**
 
 We reply within 1–2 business days.
 
